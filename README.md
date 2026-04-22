@@ -27,3 +27,19 @@ SELECT *
 FROM sales
 WHERE amount > 500
 ORDER BY amount DESC;
+
+# 📊 Results
+
+The query returns only sales greater than 500, sorted from highest to lowest:
+
+![Sales table screenshot](screenshot.png)
+
+🛠 Tools Used
+SQLite Online
+SQL
+🚀 Key Learnings
+How to structure a SQL table
+Data insertion techniques
+Filtering data using WHERE
+Sorting results using ORDER BY
+👩‍💻 Diana Chirwa
