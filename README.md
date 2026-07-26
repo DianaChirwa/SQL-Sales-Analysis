@@ -27,6 +27,7 @@ SELECT *
 FROM sales
 WHERE amount > 500
 ORDER BY amount DESC;
+```
 
 # 📊 Results
 
@@ -42,4 +43,5 @@ How to structure a SQL table
 Data insertion techniques
 Filtering data using WHERE
 Sorting results using ORDER BY
+
 👩‍💻 Diana Chirwa
