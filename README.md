@@ -38,6 +38,7 @@ The query returns only sales greater than 500, sorted from highest to lowest:
 🛠 Tools Used
 SQLite Online
 SQL
+
 🚀 Key Learnings
 How to structure a SQL table
 Data insertion techniques
